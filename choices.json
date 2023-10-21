@@ -1,0 +1,8 @@
+{
+    "1": {"name": "Cultural", "types": "Museus, galerias de arte, teatros e outros locais para conhecer a história e a cultura da cidade.", "location": ["MASP", "Pinacoteca", "Theatro de São Paulo"]},
+    "2": {"name": "Histórico", "types": "Monumentos, prédios antigos, sítios arqueológicos e outros locais para aprender sobre a história da cidade.", "location": ["Pátio do Colégio", "Museu do Ipiranga", "Mosteiro de São Bento"]},
+    "3": {"name": "Ambiental", "types": "Parques, reservas naturais, trilhas ecológicas e outros locais para apreciar a natureza e os ecossistemas da cidade.", "location": ["Parque do Ibirapuera", "Jardim Botânico de São Paulo", "Horto Florestal"]},
+    "4": {"name": "Comercial", "types": "Shoppings, feiras, lojas de artesanato e outros locais para comprar produtos típicos da cidade.", "location": ["Rua 25 de Março", "Galeria do Rock", "Shopping Iguatemi"]},
+    "5": {"name": "Gastronômico", "types": "Restaurantes, mercados e feiras para experimentar a culinária local.", "location": ["Fábrica da Bauducco", "Restaurante Figueira Rubaiyat", "Feira da Liberdade"]},
+    "6": {"name": "Esportivo", "types": "Arenas esportivas, estádios e outros locais para assistir ou praticar esportes na cidade.", "location": ["Estádio do Morumbi", "Museu do Futebol", "Allianz Parque"]}
+}
